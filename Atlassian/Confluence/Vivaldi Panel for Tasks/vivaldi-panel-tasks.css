@@ -24,4 +24,8 @@
     #mytask-controls {
        margin-bottom: 0px !important;                                
     }
+
+    .wiki-content a.user-mention.current-user-mention {
+       background-color: /*[[currentUserMention]]*/ !important;
+    }
 }
